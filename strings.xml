@@ -1,12 +1,18 @@
 <resources>
     <string name="app_name">Head Motion Feedback and Control</string>
     <string name="constraint_title"> Constraint Information </string>
-    <string name="recovery_context"> The recommended recovery method for concussions follows the \"return to play\" guidelines as described here: </string>
-    <string name="zero_percent_recovery"> 0&#37; - At this level, no activity is recommended, and the patient should remain at rest in order to recover.</string>
-    <string name="twenty_percent_recovery"> 20&#37; - At this level, light aerobic exercise to determine the effects of increased heart rate (Walking, etc&#8230;) is recommended, for shorter periods of time (20 minutes). </string>
-    <string name="fourty_percent_recovery"> 40&#37; - At this level, sport-specific exercise (Jogging, etc&#8230;) is recommended to add movement, and assess movement ability. </string>
-    <string name="sixty_percent_recovery"> 60&#37; - Non-contact Training drills: this looks for effects of exercise, as well as assessing the coordination and cognitive load of the patient. </string>
-    <string name="eighty_percent_recovery"> 80&#37; - Full-Contact Practice: The goal of this stage is to restore patient confidence, and to assess functional skills of the patient.</string>
+    <string name="recovery_context"> The recommended recovery method for concussions follows the \"return to play\" guidelines as 
+        described here: </string>
+    <string name="zero_percent_recovery"> 0&#37; - At this level, no activity is recommended, and the patient should remain at rest 
+        in order to recover.</string>
+    <string name="twenty_percent_recovery"> 20&#37; - At this level, light aerobic exercise to determine the effects of increased 
+        heart rate (Walking, etc&#8230;) is recommended, for shorter periods of time (20 minutes). </string>
+    <string name="fourty_percent_recovery"> 40&#37; - At this level, sport-specific exercise (Jogging, etc&#8230;) is recommended 
+        to add movement, and assess movement ability. </string>
+    <string name="sixty_percent_recovery"> 60&#37; - Non-contact Training drills: this looks for effects of exercise, as well as 
+        assessing the coordination and cognitive load of the patient. </string>
+    <string name="eighty_percent_recovery"> 80&#37; - Full-Contact Practice: The goal of this stage is to restore patient confidence, 
+        and to assess functional skills of the patient.</string>
     <string name="onehundred_percent_recovery"> 100&#37; - Return to full activity.</string>
     <string name="hyperlink_CR"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4004129/">More Information</a></string>
     <string name="title_activity_model">Model</string>
